@@ -1,0 +1,1193 @@
+age_group,education,gender,nationality,electoral_district,unit,voting_intent
+25-34,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+75+,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,No
+55-64,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,No
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,No
+75+,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,No
+25-34,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+65-74,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Basic education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,No
+25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+25-34,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+18-24,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+18-24,Secondary education,Female,Other,Tartu linn,Tartu linn,Yes
+75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+25-34,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,No
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+18-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+25-34,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+75+,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+55-64,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,No
+65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Pirita,No
+45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+55-64,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+55-64,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+45-54,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+18-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+55-64,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+18-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+65-74,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Secondary education,Female,Estonian,Tartu linn,Tartu linn,No
+55-64,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+25-34,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+75+,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+18-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,No
+25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,No
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+75+,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+75+,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+75+,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,No
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,No
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,No
+45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+75+,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,No
+45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+55-64,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,No
+25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+35-44,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+25-34,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+45-54,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,No
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+18-24,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,No
+55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Higher education,Male,Other,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,Yes
+35-44,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+75+,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+45-54,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+75+,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,No
+55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+75+,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+25-34,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+65-74,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Basic education,Male,Other,Tartu linn,Tartu linn,Yes
+75+,Higher education,Female,Other,Tartu linn,Tartu linn,Yes
+35-44,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,No
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+18-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,No
+35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+55-64,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+75+,Basic education,Female,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+35-44,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+18-24,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+75+,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+65-74,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+18-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+18-24,Basic education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+75+,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+65-74,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+25-34,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+75+,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+75+,Basic education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+75+,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+45-54,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,No
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+25-34,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+18-24,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,No
+35-44,Secondary education,Male,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,No
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+25-34,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+45-54,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+45-54,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+25-34,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+25-34,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+25-34,Secondary education,Male,Other,Tartu linn,Tartu linn,Yes
+35-44,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+18-24,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+75+,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+25-34,Higher education,Male,Estonian,Tartu linn,Tartu linn,No
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+18-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+35-44,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+25-34,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,No
+65-74,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,No
+75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,No
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+45-54,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+55-64,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Higher education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,No
+65-74,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+55-64,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+75+,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,No
+55-64,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+75+,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+75+,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+45-54,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+65-74,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+18-24,Basic education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+55-64,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+75+,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Basic education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Other,Pärnumaa,Pärnumaa,Yes
+65-74,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+18-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+18-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,No
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+18-24,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+75+,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,No
+55-64,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+25-34,Higher education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+65-74,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+65-74,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+75+,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,No
+65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+45-54,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+45-54,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,No
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+65-74,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,No
+35-44,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,No
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+25-34,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+75+,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+65-74,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+18-24,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,No
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+75+,Higher education,Female,Estonian,Tartu linn,Tartu linn,No
+18-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,No
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+35-44,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+75+,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Higher education,Male,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Female,Other,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+75+,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,No
+25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+65-74,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,No
+35-44,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+25-34,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,No
+75+,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+75+,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+75+,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+18-24,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,No
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+75+,Basic education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+75+,Basic education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+75+,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+18-24,Basic education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,No
+75+,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+75+,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Other,Harju- ja Raplamaa,Raplamaa,Yes
+35-44,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+45-54,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+75+,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+75+,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+25-34,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+25-34,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,No
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,No
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,No
+35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+18-24,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,No
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+18-24,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+75+,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,Yes
+75+,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+55-64,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+18-24,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,No
+18-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+18-24,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+75+,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+18-24,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,No
+45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+18-24,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+25-34,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+75+,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+35-44,Higher education,Female,Other,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+45-54,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,No
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+18-24,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+55-64,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,No
+18-24,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+65-74,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+65-74,Basic education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+75+,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+18-24,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+18-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Higher education,Male,Other,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,No
+35-44,Secondary education,Female,Other,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+65-74,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+65-74,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+18-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+75+,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+25-34,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+45-54,Higher education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+25-34,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+18-24,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+18-24,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,No
+18-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+25-34,Higher education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+45-54,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+35-44,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+65-74,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+18-24,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+55-64,Secondary education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+25-34,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Basic education,Male,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,No
+35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+45-54,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+75+,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+35-44,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Basic education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+35-44,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+35-44,Higher education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,Yes
+75+,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Secondary education,Female,Estonian,Tartu linn,Tartu linn,No
+25-34,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Basic education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Higher education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+25-34,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Higher education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+75+,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+45-54,Secondary education,Male,Other,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+35-44,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+18-24,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+25-34,Secondary education,Female,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,No
+25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+75+,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+35-44,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+25-34,Basic education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+25-34,Higher education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+75+,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,No
+35-44,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,No
+35-44,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+18-24,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+25-34,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+35-44,Basic education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+65-74,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+35-44,Secondary education,Female,Other,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Higher education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+75+,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+35-44,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Basic education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+45-54,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,No
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+25-34,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Secondary education,Male,Other,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,No
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+35-44,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+18-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+45-54,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+55-64,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+18-24,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+75+,Higher education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+75+,Higher education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+75+,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+18-24,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+25-34,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,No
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+25-34,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,No
+45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Male,Other,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+35-44,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+25-34,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+18-24,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,No
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,No
+25-34,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+65-74,Higher education,Female,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+25-34,Higher education,Male,Estonian,Tartu linn,Tartu linn,Yes
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Basic education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+18-24,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+55-64,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+55-64,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+45-54,Secondary education,Male,Other,Harju- ja Raplamaa,Raplamaa,Yes
+25-34,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+45-54,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Estonian,Tartu linn,Tartu linn,No
+25-34,Higher education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Other,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+45-54,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+55-64,Secondary education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Secondary education,Female,Other,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,No
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+25-34,Higher education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,No
+35-44,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+18-24,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Basic education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,No
+65-74,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Higher education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Higher education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+35-44,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,No
+45-54,Higher education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Basic education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+75+,Higher education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+45-54,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+75+,Higher education,Female,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Higher education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Higher education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Higher education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+18-24,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+75+,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Basic education,Male,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+35-44,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+35-44,Higher education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+18-24,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+55-64,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,Yes
+65-74,Higher education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+65-74,Higher education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Higher education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+65-74,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+75+,Basic education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+55-64,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,No
+55-64,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+35-44,Secondary education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Basic education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+35-44,Basic education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+55-64,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+25-34,Higher education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+18-24,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Basic education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,Yes
+55-64,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Higher education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+55-64,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+65-74,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+75+,Higher education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+55-64,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+75+,Secondary education,Female,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+25-34,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+35-44,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Higher education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+55-64,Higher education,Female,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+25-34,Higher education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+65-74,Secondary education,Female,Other,Tartu linn,Tartu linn,Yes
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Higher education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+55-64,Higher education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+55-64,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Viljandimaa,No
+35-44,Higher education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+65-74,Higher education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Male,Estonian,"Hiiu-, Lääne- ja Saaremaa",Läänemaa,Yes
+65-74,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+25-34,Basic education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+25-34,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+75+,Secondary education,Male,Estonian,Järva- ja Viljandimaa,Järvamaa,Yes
+55-64,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,No
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+25-34,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+25-34,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+35-44,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+25-34,Secondary education,Male,Other,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+65-74,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Hiiumaa,Yes
+55-64,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Põhja-Tallinn,Yes
+55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+35-44,Basic education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+65-74,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Valgamaa,Yes
+55-64,Secondary education,Female,Estonian,Tartu linn,Tartu linn,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+18-24,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+65-74,Secondary education,Male,Other,Ida-Virumaa,Ida-Virumaa,Yes
+55-64,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+45-54,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,No
+55-64,Secondary education,Female,Other,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+18-24,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+75+,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+35-44,Secondary education,Female,Estonian,Pärnumaa,Pärnumaa,Yes
+65-74,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+65-74,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Nõmme,Yes
+45-54,Basic education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+25-34,Secondary education,Female,Estonian,Mustamäe ja Nõmme,Mustamäe,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Raplamaa,Yes
+55-64,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+25-34,Secondary education,Male,Estonian,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+55-64,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+65-74,Secondary education,Male,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Kristiine,Yes
+65-74,Secondary education,Male,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+65-74,Secondary education,Female,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+35-44,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,Yes
+18-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Kesklinn,Yes
+35-44,Basic education,Female,Other,Ida-Virumaa,Ida-Virumaa,Yes
+45-54,Secondary education,Male,Estonian,Pärnumaa,Pärnumaa,Yes
+75+,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Jõgevamaa,Yes
+18-24,Secondary education,Female,Other,Mustamäe ja Nõmme,Mustamäe,No
+35-44,Secondary education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Võrumaa,Yes
+18-24,Secondary education,Female,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+45-54,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+75+,Secondary education,Female,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+55-64,Secondary education,Male,Other,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Secondary education,Female,Estonian,"Hiiu-, Lääne- ja Saaremaa",Saaremaa,Yes
+18-24,Basic education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Lasnamäe,No
+35-44,Secondary education,Male,Estonian,Mustamäe ja Nõmme,Nõmme,No
+55-64,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
+35-44,Secondary education,Male,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Secondary education,Male,Estonian,Harju- ja Raplamaa,Harjumaa,Yes
+45-54,Secondary education,Female,Estonian,Lääne-Virumaa,Lääne-Virumaa,Yes
+35-44,Basic education,Male,Estonian,"Võru-, Valga- ja Põlvamaa",Põlvamaa,Yes
+35-44,Secondary education,Female,Estonian,Jõgeva- ja Tartumaa,Tartumaa,Yes
+55-64,Secondary education,Male,Estonian,"Kesklinn, Lasnamäe ja Pirita",Pirita,Yes
+75+,Secondary education,Female,Estonian,"Haabersti, Põhja-Tallinn ja Kristiine",Haabersti,Yes
+18-24,Secondary education,Male,Estonian,Tartu linn,Tartu linn,Yes
