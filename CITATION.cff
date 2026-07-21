@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: salk-turnout-models
+type: software
+license: MIT
+authors:
+  - given-names: Margus
+    family-names: Niitsoo
+  - given-names: Reimo
+    family-names: Rebane
+  - given-names: Tarmo
+    family-names: Juristo
+date-released: 2026-02-03
+preferred-citation:
+  type: article
+  title: A Unified Bayesian Model for Voter Turnout Estimation: Combining Surveys, Aggregate Data, and Selection Correction
+  authors:
+    - given-names: Margus
+      family-names: Niitsoo
+    - given-names: Reimo
+      family-names: Rebane
+    - given-names: Tarmo
+      family-names: Juristo
+  year: 2026
