@@ -1247,14 +1247,23 @@ def model_FS(
                 dims=dims_name,
             )
 
-            # Overreporting shifts the latent outcome index (Eq. 6), so it enters
-            # before conditioning on the selection error u.
-            survey_o_mu += priors['overreporting'](f'survey_{i}_or_bias')
-
             # 1.0001 rather than 1.0 guards the denominator against rho -> +-1
             # (rho is bounded to (-1, 1) by its 2*Beta-1 prior, so this only bites
             # in the extreme tail); the resulting bias in the correction is negligible.
             survey_o_mu_scaled = (survey_o_mu + rho * u) / pt.sqrt(1.0001 - rho**2)
+
+            # ERRATUM (original code used to produce the paper's results): the
+            # overreporting shift is applied to the *conditional* outcome
+            # probability, i.e. AFTER the (eta + rho*u)/sqrt(1-rho^2) scaling,
+            # rather than to eta before scaling as specified in the paper. The
+            # released `main` branch applies it before scaling; see the Erratum in
+            # Appendix A2. The two forms are equivalent up to the reparameterization
+            # beta_or -> beta_or * sqrt(1 - rho^2), so the achievable fit -- and
+            # hence the reported results -- are unchanged. This branch preserves the
+            # original placement for exact replication.
+            survey_o_mu_scaled = survey_o_mu_scaled + priors['overreporting'](
+                f'survey_{i}_or_bias'
+            )
 
             add_survey_likelihood(
                 survey_o_mu_scaled,

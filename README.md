@@ -4,6 +4,15 @@ Python package for turnout modeling with MRP, ecological inference, and selectio
 
 This is the implementation of "A Unified Bayesian Model for Voter Turnout Estimation: Combining Surveys, Aggregate Data, and  Selection Correction" by M.Niitsoo, R. Rebane, T. Jüristo and also contains the data and code for the simulations provided therein.
 
+> **Note — this is the `paper-replication` branch.** It preserves the original FS
+> overreporting placement described in the paper's erratum (the overreporting
+> shift is applied to the *conditional* outcome probability, after the Heckman
+> scaling), i.e. the exact code used to produce the paper's simulation and
+> empirical results. The `main` branch contains the corrected placement. As the
+> erratum explains, the two are equivalent up to the reparameterization
+> `beta_or -> beta_or * sqrt(1 - rho^2)`, so the reported numerical results are
+> unaffected; this branch exists only for exact replication.
+
 ## Usage
 
 ### Basic example
